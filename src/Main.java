@@ -3,5 +3,6 @@ class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("This is the main branch!");
         System.out.println("Some temporary changes!");
+        System.out.println("Fixing a bug!");
     }
 }
